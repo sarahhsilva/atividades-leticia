@@ -1,0 +1,24 @@
+*{
+    margin: 10px;
+    padding: 5.0px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.caixa{
+   padding: 1px; 
+   font-size: 20px;
+   background-color: rgb(127, 187, 255);
+}
+.titulos{
+    font-size: 30px;
+    margin: 1px;
+    background-color: rgb(127, 187, 255);
+}
+.content{
+    font-size: 20px;
+    border-radius: 0.5rem;
+}
+.btn{
+    margin: 2px;
+    padding: 10px;
+}

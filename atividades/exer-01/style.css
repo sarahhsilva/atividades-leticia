@@ -1,0 +1,22 @@
+*{
+    margin: 5px;
+    padding: 1.0px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(145, 252, 252);
+}
+.titulo-principal{
+    font-size: 30px;
+    margin: 10px flex;
+}
+.content{
+    font-size: 15px;
+    border-radius: 0.5rem;
+}
+.btn{
+    margin: 5px flex;
+    padding: 5px;
+}
+.titulos{
+    font-size: 15px;
+}
